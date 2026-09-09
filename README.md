@@ -56,9 +56,9 @@ FateSage 当前专注“准确排盘”，暂不自动生成命理解读。我�
 请在仓库右侧的 [Releases](../../releases) 页面下载最新版。
 
 - macOS：目前提供 Apple 芯片版 DMG 与 App
-- Windows：正在适配 Windows 10/11 x64 安装 与 MSI 安装包
+- Windows：提供 Windows 10/11 x64 的 NSIS 安装程序与 MSI 安装包
 
-macOS 版本尚未购买 Apple Developer 公证证书。如首次启动被系统拦截，请右键应用选择“打开”。
+macOS 版本尚未购买 Apple Developer 公证证书。如首次启动被系统拦截，请右键应用选择“打开”。Windows 版本尚未购买代码签名证书，SmartScreen 可能显示“未知发布者”。
 
 ## 版本记录
 

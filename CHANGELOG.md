@@ -20,7 +20,8 @@
 - 应用版本统一升级至 v0.2.2。
 - 重新生成 Apple 芯片 macOS App 与 DMG。
 - 安装包继续内置独立排盘引擎，不在运行时调用开发工作区。
-- Windows x64 版本进入独立交接与原生打包阶段。
+- 完成 Windows 10/11 x64 原生打包，发布 NSIS `.exe` 与 MSI `.msi` 两种安装包。
+- Windows 安装包内置独立 Python、Node、iztro、Swiss Ephemeris、sxtwl 与时区运行时，无需另装算法依赖。
 
 ## v0.2.1 — 输入体验与产品说明优化
 
